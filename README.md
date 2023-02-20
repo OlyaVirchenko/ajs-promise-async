@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/w1srmvrloylees8y?svg=true)](https://ci.appveyor.com/project/OlyaVirchenko/ajs-promise-async)
